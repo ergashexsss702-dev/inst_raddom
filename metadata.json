@@ -1,0 +1,6 @@
+{
+  "name": "INSTA RANDOM WINNER",
+  "description": "Instagram tanlovlaringiz uchun tasodifiy g'olibni shaffof, adolatli va chiroyli tarzda aniqlash web-ilovasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
